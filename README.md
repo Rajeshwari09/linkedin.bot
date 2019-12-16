@@ -1,1 +1,1 @@
-# bot_linkedin
+# linkedin.bot
